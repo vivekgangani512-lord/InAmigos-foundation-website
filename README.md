@@ -21,26 +21,6 @@ A responsive NGO website developed using HTML, CSS, and JavaScript for InAmigos 
 * CSS3
 * JavaScript
 
-## Project Structure
-
-InAmigos-foundation-website
-│
-├── index.html
-├── style.css
-├── script.js
-├──  README.md
-├──  LICENSE
-├── images/
-    ├── children.jpg
-    ├── gallery1.jpeg
-    ├── gallery2.jpeg
-    ├── gallery3.jpg
-    ├── gallery4.jpg
-    ├── gallery5.jpg
-    ├── logo.jpg
-    ├── Logo1.png
-    └── support.png
-
 ## Sections Included
 
 * Home
